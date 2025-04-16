@@ -1,6 +1,6 @@
 # ICND Package
 
-This repository contains the ICND package with various experimentation scripts for \[briefly describe purpose, e.g., data analysis, machine learning, etc.\].
+This repository contains the ICND package with various experimentation scripts for running simulations of Competitive Network Diffusion with or without Intervention.
 
 ## Cloning the Repository
 
